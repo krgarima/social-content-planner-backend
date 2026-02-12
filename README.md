@@ -7,6 +7,7 @@ FastAPI backend for the Social Content Planner demo task.
 - API Base: `https://social-content-planner-backend.onrender.com`
 - API Docs (Swagger): `https://social-content-planner-backend.onrender.com/docs`
 - Note: Render free tier may be slow on first load (cold start).
+- Demo: https://www.loom.com/share/8333b28c58ea45d692e2d0f2aa414b75
 
 ## Tech Stack
 
